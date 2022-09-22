@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.link{
+	@apply text-white block p-5 font-bold hover:text-green-500
+}
+
+.bg-green-kmline{
+	background-color: #70b62c;
+}
+.bg-green-km{
+	background-color: #1d2b4d;
+}
